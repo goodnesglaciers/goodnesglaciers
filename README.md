@@ -6,6 +6,7 @@ This is mainly a place where I store respositories of published work:
 - Stevens et al. (2022): [Tidewater-glacier response to supraglacial lake drainage.](https://github.com/goodnesglaciers/nevis_helheim)
 - Stevens et al. (2024): [Elastic stress coupling between supraglacial lakes.](https://github.com/goodnesglaciers/lake_strain)
 <!--
+- Stevens et al. (202?)
 **goodnesglaciers/goodnesglaciers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
