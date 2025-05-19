@@ -5,9 +5,6 @@ This is mainly a place where I store respositories of published work:
 - Stevens et al. (2021): [Helheim Glacier diurnal velocity fluctuations driven by surface melt forcing.](https://github.com/goodnesglaciers/helheim_diurnal_vels)
 - Stevens et al. (2022): [Tidewater-glacier response to supraglacial lake drainage.](https://github.com/goodnesglaciers/nevis_helheim)
 - Stevens et al. (2024): [Elastic stress coupling between supraglacial lakes.](https://github.com/goodnesglaciers/lake_strain)
-
-📧 laura.stevens@earth.ox.ac.uk
-
 <!--
 **goodnesglaciers/goodnesglaciers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
