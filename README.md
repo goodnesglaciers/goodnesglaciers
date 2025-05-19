@@ -1,4 +1,10 @@
-## Hi there 👋
+# Prof. Laura A. Stevens, 🌏 Sciences @ Oxford 
+
+This is mainly a place where I store code respositories for published work:
+- Stevens et al. (2018):
+- Stevens et al. (2021):
+- Stevens et al. (2022):
+- Stevens et al. (2024):
 
 <!--
 **goodnesglaciers/goodnesglaciers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
