@@ -7,7 +7,7 @@ This is mainly a place where I store respositories of published work:
 - Stevens et al. (2024): [Elastic stress coupling between supraglacial lakes.](https://github.com/goodnesglaciers/lake_strain)
 
 Work in progress:
-- Stevens et al. (202?): [Supraglacial lake hydro-fracture not advanced inland by lower-elevation lake drainages in Kalaallit Nunaat/Greenland.](https://github.com/goodnesglaciers/lakes_cluster) <br/> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  With two Central West Greenland lake-drainage catalogues:
+- Stevens et al. (202?): [Ice-sheet hydro-fracture not advanced inland by lower-elevation lake drainages in Kalaallit Nunaat/Greenland.](https://github.com/goodnesglaciers/lakes_cluster) <br/> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  With two Central West Greenland lake-drainage catalogues:
 <br/> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;     - [Mechanistic Lake-Drainage Catalogue for 2022](https://github.com/goodnesglaciers/mechanistic_drainage_catalogue_2022)
 <br/> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;     - [Mechanistic Lake-Drainage Catalogue for 2023](https://github.com/goodnesglaciers/mechanistic_drainage_catalogue_2023)
 
