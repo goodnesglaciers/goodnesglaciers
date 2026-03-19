@@ -1,8 +1,6 @@
 ### Prof. Laura A. Stevens, 🌏 Sciences @ Oxford 
 
 This is mainly a place where I store respositories of published work:
-- Stevens et al. (2015): [Greenland supraglacial lake drainages triggered by hydrologically induced basal slip.](https://github.com/goodnesglaciers/lake_fracture)
-- Stevens et al. (2016): [Greenland Ice Sheet flow response to runoff variability.](https://github.com/goodnesglaciers/lake_flow)
 - Stevens et al. (2018): [Relationship between Greenland Ice Sheet surface speed and modeled effective pressure.](https://github.com/goodnesglaciers/nevis_regional)
 - Stevens et al. (2021): [Helheim Glacier diurnal velocity fluctuations driven by surface melt forcing.](https://github.com/goodnesglaciers/helheim_diurnal_vels)
 - Stevens et al. (2022): [Tidewater-glacier response to supraglacial lake drainage.](https://github.com/goodnesglaciers/nevis_helheim)
@@ -16,7 +14,8 @@ Work in progress:
 <!--
 **goodnesglaciers/goodnesglaciers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+- Stevens et al. (2015): [Greenland supraglacial lake drainages triggered by hydrologically induced basal slip.](https://github.com/goodnesglaciers/lake_fracture)
+- Stevens et al. (2016): [Greenland Ice Sheet flow response to runoff variability.](https://github.com/goodnesglaciers/lake_flow)
 
 Here are some ideas to get you started:
 
