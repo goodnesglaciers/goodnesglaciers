@@ -1,6 +1,6 @@
 ### Prof. Laura A. Stevens, 🌏 Sciences @ Oxford 
 
-This is mostly a place where I store respositories of published work:
+This is mostly a place where I store repositories of published work:
 - Stevens et al. (2018): [Relationship between Greenland Ice Sheet surface speed and modeled effective pressure.](https://github.com/goodnesglaciers/nevis_regional)
 - Stevens et al. (2021): [Helheim Glacier diurnal velocity fluctuations driven by surface melt forcing.](https://github.com/goodnesglaciers/helheim_diurnal_vels)
 - Stevens et al. (2022): [Tidewater-glacier response to supraglacial lake drainage.](https://github.com/goodnesglaciers/nevis_helheim)
@@ -9,6 +9,9 @@ This is mostly a place where I store respositories of published work:
 <br/> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    (1) [Mechanistic Lake-Drainage Catalogue for 2022](https://github.com/goodnesglaciers/mechanistic_drainage_catalogue_2022)
 <br/> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    (2) [Mechanistic Lake-Drainage Catalogue for 2023](https://github.com/goodnesglaciers/mechanistic_drainage_catalogue_2023)
 
+The subglacial hydrology model with blisters is found over on Hanwen's page:
+- Zhang et al. (202?): [A unified blister and subglacial hydrology framework for supraglacial lake drainage events.](https://github.com/HwenZhang/nevis)
+  
 <!--
 **goodnesglaciers/goodnesglaciers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
