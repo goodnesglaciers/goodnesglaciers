@@ -9,7 +9,7 @@ This is mostly a place where I store repositories of published work:
 <br/> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    (1) [Mechanistic Lake-Drainage Catalogue for 2022](https://github.com/goodnesglaciers/mechanistic_drainage_catalogue_2022)
 <br/> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    (2) [Mechanistic Lake-Drainage Catalogue for 2023](https://github.com/goodnesglaciers/mechanistic_drainage_catalogue_2023)
 
-The subglacial hydrology model with blisters is found over on Hanwen's page:
+The subglacial hydrology model with blisters is found over on [Hanwen's page](https://github.com/HwenZhang):
 - Zhang et al. (202?): [A unified blister and subglacial hydrology framework for supraglacial lake drainage events.](https://github.com/HwenZhang/nevis)
   
 <!--
